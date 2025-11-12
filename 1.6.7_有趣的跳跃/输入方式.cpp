@@ -36,3 +36,5 @@ int input() // 这样写就行，我会去问问Gemini那样写的缘由
 		cin >> arr[i];
 	}
 }
+
+//据Gemini所说，使用 while(cin >> n) {} 的写法是为了输入多组数据
